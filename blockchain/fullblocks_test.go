@@ -12,15 +12,15 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/blockchain/fullblocktests"
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/database"
-	_ "github.com/phoreproject/btcd/database/ffldb"
-	"github.com/phoreproject/btcd/txscript"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/blockchain"
+	"github.com/projecthelixcoin/btcd/blockchain/fullblocktests"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/database"
+	_ "github.com/projecthelixcoin/btcd/database/ffldb"
+	"github.com/projecthelixcoin/btcd/txscript"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 const (

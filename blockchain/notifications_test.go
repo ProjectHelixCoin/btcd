@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/phoreproject/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg"
 )
 
 // TestNotifications ensures that notification callbacks are fired on events.

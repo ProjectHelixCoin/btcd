@@ -8,7 +8,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
 )
 
 // MsgBudgetProposalBroadcast repesents a budget proposal

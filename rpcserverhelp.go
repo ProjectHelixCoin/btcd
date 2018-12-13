@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phoreproject/btcd/btcjson"
+	"github.com/projecthelixcoin/btcd/btcjson"
 )
 
 // helpDescsEnUS defines the English descriptions used for the help strings.

@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/phoreproject/btcd/btcjson"
+	"github.com/projecthelixcoin/btcd/btcjson"
 )
 
 // TestAssignField tests the assignField function handles supported combinations

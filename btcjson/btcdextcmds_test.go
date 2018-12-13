@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/phoreproject/btcd/btcjson"
+	"github.com/projecthelixcoin/btcd/btcjson"
 )
 
 // TestBtcdExtCmds tests all of the btcd extended commands marshal and unmarshal

@@ -1095,7 +1095,7 @@ package main
 
 import (
 	"github.com/btcsuite/btcrpcclient"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcutil"
 	"io/ioutil"
 	"log"
 	"path/filepath"
@@ -1156,9 +1156,9 @@ package main
 
 import (
 	"github.com/btcsuite/btcrpcclient"
-	"github.com/phoreproject/btcutil"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
 	"io/ioutil"
 	"log"
 	"path/filepath"
@@ -1248,9 +1248,9 @@ package main
 
 import (
 	"github.com/btcsuite/btcrpcclient"
-	"github.com/phoreproject/btcutil"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
 	"io/ioutil"
 	"log"
 	"path/filepath"

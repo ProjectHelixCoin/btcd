@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 var (

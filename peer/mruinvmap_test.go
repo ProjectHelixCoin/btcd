@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // TestMruInventoryMap ensures the MruInventoryMap behaves as expected including

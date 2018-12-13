@@ -5,9 +5,9 @@
 package mining
 
 import (
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/blockchain"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 const (

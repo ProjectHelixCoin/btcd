@@ -8,12 +8,12 @@ package chainhash
 import (
 	"crypto/sha256"
 
-	"github.com/phoreproject/go-x11/blake"
-	"github.com/phoreproject/go-x11/bmw"
-	"github.com/phoreproject/go-x11/groest"
-	"github.com/phoreproject/go-x11/jhash"
-	"github.com/phoreproject/go-x11/keccak"
-	"github.com/phoreproject/go-x11/skein"
+	"github.com/projecthelixcoin/go-x11/blake"
+	"github.com/projecthelixcoin/go-x11/bmw"
+	"github.com/projecthelixcoin/go-x11/groest"
+	"github.com/projecthelixcoin/go-x11/jhash"
+	"github.com/projecthelixcoin/go-x11/keccak"
+	"github.com/projecthelixcoin/go-x11/skein"
 )
 
 // HashB calculates hash(b) and returns the resulting bytes.

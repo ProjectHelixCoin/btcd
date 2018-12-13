@@ -10,9 +10,9 @@ package database
 import (
 	"math/big"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/zerocoin"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/zerocoin"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a

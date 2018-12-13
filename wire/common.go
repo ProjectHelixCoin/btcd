@@ -12,7 +12,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
 )
 
 const (

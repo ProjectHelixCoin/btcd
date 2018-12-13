@@ -10,9 +10,9 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/phoreproject/btcd/btcjson"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/btcjson"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // FutureGetBestBlockHashResult is a future promise to deliver the result of a

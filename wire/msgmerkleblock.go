@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
 )
 
 // maxFlagsPerMerkleBlock is the maximum number of flag bytes that could

@@ -11,9 +11,9 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/blockchain"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 var (

@@ -3,7 +3,7 @@ chaincfg
 
 [![Build Status](http://img.shields.io/travis/btcsuite/btcd.svg)](https://travis-ci.org/btcsuite/btcd)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/phoreproject/btcd/chaincfg)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/projecthelixcoin/btcd/chaincfg)
 
 Package chaincfg defines chain configuration parameters for the three standard
 Bitcoin networks and provides the ability for callers to define their own custom
@@ -24,8 +24,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/phoreproject/btcutil"
-	"github.com/phoreproject/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg"
 )
 
 var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")
@@ -56,7 +56,7 @@ func main() {
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/phoreproject/btcd/chaincfg
+$ go get -u github.com/projecthelixcoin/btcd/chaincfg
 ```
 
 ## GPG Verification Key

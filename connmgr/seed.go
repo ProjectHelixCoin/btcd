@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 const (

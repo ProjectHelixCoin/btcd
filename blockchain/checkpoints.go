@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/txscript"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/txscript"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

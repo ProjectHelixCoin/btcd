@@ -5,13 +5,13 @@
 package netsync
 
 import (
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/mempool"
-	"github.com/phoreproject/btcd/peer"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/blockchain"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/mempool"
+	"github.com/projecthelixcoin/btcd/peer"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // PeerNotifier exposes methods to notify peers of status changes to

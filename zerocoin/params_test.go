@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/phoreproject/btcd/zerocoin"
+	"github.com/projecthelixcoin/btcd/zerocoin"
 )
 
 func TestBigConversion(t *testing.T) {

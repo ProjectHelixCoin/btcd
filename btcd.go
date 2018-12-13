@@ -15,9 +15,9 @@ import (
 	"runtime/debug"
 	"runtime/pprof"
 
-	"github.com/phoreproject/btcd/blockchain/indexers"
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcd/limits"
+	"github.com/projecthelixcoin/btcd/blockchain/indexers"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcd/limits"
 )
 
 const (

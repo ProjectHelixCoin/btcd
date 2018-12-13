@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
 )
 
 func min(a, b int) int {

@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/database"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/database"
 )
 
 // blockRegionCmd defines the configuration options for the fetchblockregion

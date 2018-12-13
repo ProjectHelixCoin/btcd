@@ -1,7 +1,7 @@
-package: github.com/phoreproject/btcd
+package: github.com/projecthelixcoin/btcd
 import:
 - package: github.com/btcsuite/btclog
-- package: github.com/phoreproject/btcutil
+- package: github.com/projecthelixcoin/btcutil
   subpackages:
   - bloom
   - hdkeychain

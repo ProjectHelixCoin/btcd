@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/phoreproject/btcd/btcec"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/btcec"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // ScriptFlags is a bitmask defining additional operations or tests that will be

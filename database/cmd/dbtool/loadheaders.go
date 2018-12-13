@@ -7,8 +7,8 @@ package main
 import (
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/database"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/database"
 )
 
 // headersCmd defines the configuration options for the loadheaders command.

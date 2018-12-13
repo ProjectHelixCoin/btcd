@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

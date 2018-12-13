@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // testNoncePrng provides a deterministic prng for the nonce in generated fake

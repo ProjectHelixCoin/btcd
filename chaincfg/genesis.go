@@ -7,8 +7,8 @@ package chaincfg
 import (
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // genesisCoinbaseTx is the coinbase transaction for the genesis blocks for

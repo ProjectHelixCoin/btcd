@@ -6,7 +6,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
 )
 
 // Accumulator represents an RSA-based accumulator.

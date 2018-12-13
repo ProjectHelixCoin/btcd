@@ -7,13 +7,13 @@ package main
 import (
 	"sync/atomic"
 
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/mempool"
-	"github.com/phoreproject/btcd/netsync"
-	"github.com/phoreproject/btcd/peer"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/blockchain"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/mempool"
+	"github.com/projecthelixcoin/btcd/netsync"
+	"github.com/projecthelixcoin/btcd/peer"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // rpcPeer provides a peer for use with the RPC server and implements the

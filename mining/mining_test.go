@@ -9,7 +9,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // TestTxFeePrioHeap ensures the priority queue for transaction fees and

@@ -5,8 +5,8 @@
 package blockchain
 
 import (
-	"github.com/phoreproject/btcd/btcec"
-	"github.com/phoreproject/btcd/txscript"
+	"github.com/projecthelixcoin/btcd/btcec"
+	"github.com/projecthelixcoin/btcd/txscript"
 )
 
 // -----------------------------------------------------------------------------

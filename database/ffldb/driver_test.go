@@ -12,10 +12,10 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcd/database/ffldb"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcd/database/ffldb"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // dbType is the database type name for this driver.

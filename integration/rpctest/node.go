@@ -14,8 +14,8 @@ import (
 	"runtime"
 	"time"
 
-	rpc "github.com/phoreproject/btcd/rpcclient"
-	"github.com/phoreproject/btcutil"
+	rpc "github.com/projecthelixcoin/btcd/rpcclient"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // nodeConfig contains all the args, and data required to launch a btcd process

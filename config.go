@@ -22,14 +22,14 @@ import (
 
 	"github.com/btcsuite/go-socks/socks"
 	flags "github.com/jessevdk/go-flags"
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/connmgr"
-	"github.com/phoreproject/btcd/database"
-	_ "github.com/phoreproject/btcd/database/ffldb"
-	"github.com/phoreproject/btcd/mempool"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/blockchain"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/connmgr"
+	"github.com/projecthelixcoin/btcd/database"
+	_ "github.com/projecthelixcoin/btcd/database/ffldb"
+	"github.com/projecthelixcoin/btcd/mempool"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 const (

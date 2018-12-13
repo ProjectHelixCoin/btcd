@@ -8,7 +8,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/phoreproject/btcd/database"
+	"github.com/projecthelixcoin/btcd/database"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.

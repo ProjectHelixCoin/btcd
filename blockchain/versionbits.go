@@ -7,7 +7,7 @@ package blockchain
 import (
 	"math"
 
-	"github.com/phoreproject/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg"
 )
 
 const (

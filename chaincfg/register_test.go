@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/phoreproject/btcd/chaincfg"
+	. "github.com/projecthelixcoin/btcd/chaincfg"
 )
 
 // Define some of the required parameters for a user-registered

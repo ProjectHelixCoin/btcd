@@ -1,7 +1,7 @@
 package zerocoin
 
 import (
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // Denomination represents a Zerocoin denomination

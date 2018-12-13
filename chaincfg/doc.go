@@ -25,8 +25,8 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/phoreproject/btcutil"
-//          "github.com/phoreproject/btcd/chaincfg"
+//          "github.com/projecthelixcoin/btcutil"
+//          "github.com/projecthelixcoin/btcd/chaincfg"
 //  )
 //
 //  var testnet = flag.Bool("testnet", false, "operate on the testnet Bitcoin network")

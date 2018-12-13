@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // Bip16Activation is the timestamp where BIP0016 is valid to use in the

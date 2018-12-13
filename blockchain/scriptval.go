@@ -10,9 +10,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/phoreproject/btcd/txscript"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/txscript"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // txValidateItem holds a transaction along with which input to validate.

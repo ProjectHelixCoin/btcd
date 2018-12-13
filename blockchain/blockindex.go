@@ -11,10 +11,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // blockStatus is a bit field representing the validation state of the block.

@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/phoreproject/btcd/btcjson"
+	"github.com/projecthelixcoin/btcd/btcjson"
 )
 
 // TestWalletSvrCmds tests all of the wallet server commands marshal and

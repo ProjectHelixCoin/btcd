@@ -17,7 +17,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/phoreproject/btcd/btcec"
+	"github.com/projecthelixcoin/btcd/btcec"
 )
 
 func main() {

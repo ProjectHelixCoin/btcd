@@ -7,10 +7,10 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcd/txscript"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcd/txscript"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // utxoOutput houses details about an individual unspent transaction output such

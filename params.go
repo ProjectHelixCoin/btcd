@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/phoreproject/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg"
 )
 
 // activeNetParams is a pointer to the parameters specific to the

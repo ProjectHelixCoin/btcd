@@ -7,8 +7,8 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/phoreproject/btcd/txscript"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/txscript"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 const (

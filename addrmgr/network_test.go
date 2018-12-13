@@ -8,8 +8,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/phoreproject/btcd/addrmgr"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/addrmgr"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // TestIPTypes ensures the various functions which determine the type of an IP

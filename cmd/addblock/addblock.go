@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/phoreproject/btcd/blockchain"
-	"github.com/phoreproject/btcd/blockchain/indexers"
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcd/limits"
+	"github.com/projecthelixcoin/btcd/blockchain"
+	"github.com/projecthelixcoin/btcd/blockchain/indexers"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcd/limits"
 	"github.com/btcsuite/btclog"
 )
 

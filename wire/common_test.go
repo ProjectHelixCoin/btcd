@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
 	"github.com/davecgh/go-spew/spew"
 )
 

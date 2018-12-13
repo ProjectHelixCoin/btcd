@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/phoreproject/btcd/txscript"
+	"github.com/projecthelixcoin/btcd/txscript"
 )
 
 // TestCheckBlockScripts ensures that validating the all of the scripts in a

@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phoreproject/btcd/zerocoin"
+	"github.com/projecthelixcoin/btcd/zerocoin"
 )
 
 func TestSerializeBigNum(t *testing.T) {

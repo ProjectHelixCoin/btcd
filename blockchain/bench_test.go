@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // BenchmarkIsCoinBase performs a simple benchmark against the IsCoinBase

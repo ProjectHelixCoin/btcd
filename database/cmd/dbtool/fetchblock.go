@@ -9,8 +9,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/database"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/database"
 )
 
 // fetchBlockCmd defines the configuration options for the fetchblock command.

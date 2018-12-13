@@ -14,8 +14,8 @@ import (
 	"strings"
 
 	flags "github.com/jessevdk/go-flags"
-	"github.com/phoreproject/btcd/btcjson"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/btcjson"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 const (

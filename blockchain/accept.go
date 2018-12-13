@@ -7,8 +7,8 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/phoreproject/btcd/database"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/database"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 // maybeAcceptBlock potentially accepts a block into the block chain and, if

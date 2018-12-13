@@ -10,10 +10,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/database"
-	_ "github.com/phoreproject/btcd/database/ffldb"
-	"github.com/phoreproject/btcutil"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/database"
+	_ "github.com/projecthelixcoin/btcd/database/ffldb"
+	"github.com/projecthelixcoin/btcutil"
 )
 
 var (
